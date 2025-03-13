@@ -8,10 +8,15 @@
 <hr />
 <p align="justify"> Linguagens de IDLE que faço projetos </p>
 > Python :heavy_check_mark:
+
 > SolidWorks :heavy_check_mark:
+
 > Arduino :heavy_check_mark:
+
 > HTMl :heavy_check_mark:
+
 > CSS :heavy_check_mark:
+
 > JavaScript :heavy_check_mark:
 
 
