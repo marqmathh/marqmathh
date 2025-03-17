@@ -8,7 +8,7 @@
 <hr />
 <p align="justify"> Linguagens de IDLE que faço projetos </p>
 
-> Python :heavy_check_mark:
+Python :heavy_check_mark:
 
 > SolidWorks :heavy_check_mark:
 
