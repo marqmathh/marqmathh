@@ -8,23 +8,25 @@
 <p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming.</p>
 <hr />
 <p align="justify">Hard Skills</p>
-
+<h3>Programming</h3>
 <ul>
-    <h2>Programming</h2>
     <li>Python :heavy_check_mark:</li>
     <li>JavaScript :heavy_check_mark:</li>
     <li>HTML :heavy_check_mark:</li>
     <li>CSS :heavy_check_mark:</li>
+</ul>
+<h3>Design</h3>
+<ul>
+    <li>Ilustrator :heavy_check_mark:</li>
     <li>Photoshop :heavy_check_mark:</li>
     <li>Blender :heavy_check_mark:</li>
+</ul>
+<h3>Engineer</h3>
+<ul>
     <li>SolidWorks :heavy_check_mark:</li>
     <li>AutoCad :heavy_check_mark:</li>
     <li>Arduino :heavy_check_mark:</li>
 </ul>
-
-
-
-
 <!--
 **marqmathh/marqmathh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
