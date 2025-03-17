@@ -5,7 +5,7 @@
 <h2>Bio Under Construction</h2>
 <h1 align="center">Hello, my name is Matheus Marques de Araujo 👋</h1>
 <h2 align="justify">Welcome to my profile</h2> 
-<p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming.</p>
+<p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming and design.</p>
 <hr />
 <h3>Programming - Hard Skills</h3>
 <ul>
