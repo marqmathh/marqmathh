@@ -6,15 +6,17 @@
 <h1 align="center">Hello, my name is Matheus Marques de Araujo 👋</h1>
 <p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming.</p>
 <hr />
-<p align="justify">Skills</p>
+<p align="justify" text-decoration: underline>Hard Skills</p>
 
 <ul>
+    <li>Blender :heavy_check_mark:</li>
     <li>Python :heavy_check_mark:</li>
-    <li>SolidWorks :heavy_check_mark:</li>
-    <li>Arduino :heavy_check_mark:</li>
     <li>HTML :heavy_check_mark:</li>
     <li>CSS :heavy_check_mark:</li>
     <li>JavaScript :heavy_check_mark:</li>
+    <li>SolidWorks :heavy_check_mark:</li>
+    <li>AutoCad :heavy_check_mark:</li>
+    <li>Arduino :heavy_check_mark:</li>
 </ul>
 
 
