@@ -3,9 +3,9 @@
 -->
 
 <h2>Bio Under Construction</h2>
-<h1 align="center">Hello, my name is Matheus Marques de Araujo 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h2 align="justify">Welcome to my profile</h2> 
-<p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming and design.</p>
+<p align="justify">My name is Matheus Marques de Araujo, I hold a degree in Electrical Engineering, but I'm passionate about the world of programming and design.</p>
 <hr />
 <h3>Programming - Hard Skills</h3>
 <ul>
@@ -26,18 +26,3 @@
     <li>AutoCad :heavy_check_mark:</li>
     <li>Arduino :heavy_check_mark:</li>
 </ul>
-<!--
-**marqmathh/marqmathh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Tspro Tecnologia para fluídos
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
