@@ -2,23 +2,20 @@
 ## Hi there 👋 
 -->
 
-<h2>Bio in construction</h2>
-<h1 align="center"> Hi my name is Matheus Marques de Araujo 👋</h1>
-<p align="justify"> Sou formado em engenharia elétrica, mas sou apaixonado no mundo da programação </p>
+<h2>Bio Under Construction</h2>
+<h1 align="center">Hello, my name is Matheus Marques de Araujo 👋</h1>
+<p align="justify">I hold a degree in Electrical Engineering, but I am passionate about the world of programming.</p>
 <hr />
-<p align="justify"> Linguagens de IDLE que faço projetos </p>
+<p align="justify">Skills</p>
 
-- Python :heavy_check_mark:
-
-> SolidWorks :heavy_check_mark:
-
-> Arduino :heavy_check_mark:
-
-> HTMl :heavy_check_mark:
-
-> CSS :heavy_check_mark:
-
-> JavaScript :heavy_check_mark:
+<ul>
+    <li>Python :heavy_check_mark:</li>
+    <li>SolidWorks :heavy_check_mark:</li>
+    <li>Arduino :heavy_check_mark:</li>
+    <li>HTML :heavy_check_mark:</li>
+    <li>CSS :heavy_check_mark:</li>
+    <li>JavaScript :heavy_check_mark:</li>
+</ul>
 
 
 
