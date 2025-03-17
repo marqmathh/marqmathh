@@ -10,7 +10,7 @@
 <p align="justify">Hard Skills</p>
 
 <ul>
-    <li><h2>Programming</h2></li>
+    <h2>Programming</h2>
     <li>Python :heavy_check_mark:</li>
     <li>JavaScript :heavy_check_mark:</li>
     <li>HTML :heavy_check_mark:</li>
