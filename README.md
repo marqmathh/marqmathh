@@ -1,4 +1,3 @@
-# About Me:
 <h1 align="center">Hi, I'm Matheus! 👋</h1><br><h2 align="justify">Electrical engineer passionate about programming and design.</h2><br><p align="justify">💻 Python | JavaScript | HTML | CSS <br> 🎨 Illustrator | Photoshop | Blender <br> ⚙️ SolidWorks | AutoCad | Arduino</p><br><hr /><br><p align="justify">Let's create something amazing together! 🚀</p>
 
 
